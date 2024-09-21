@@ -4,13 +4,13 @@
 #include <string>
 #include <iostream>
 
-struct file{
+struct command{
     std::string name;
 };
 
 struct directory{
     std::string name;
-    std::vector<file> files;
+    std::vector<command> commands;
     std::vector<directory> subdirectory;
 };
 
