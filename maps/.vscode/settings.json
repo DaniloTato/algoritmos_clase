@@ -10,6 +10,7 @@
         "__node_handle": "cpp",
         "__split_buffer": "cpp",
         "__threading_support": "cpp",
+        "__tree": "cpp",
         "__verbose_abort": "cpp",
         "array": "cpp",
         "atomic": "cpp",
@@ -36,11 +37,13 @@
         "istream": "cpp",
         "limits": "cpp",
         "locale": "cpp",
+        "map": "cpp",
         "mutex": "cpp",
         "new": "cpp",
         "optional": "cpp",
         "ostream": "cpp",
         "ratio": "cpp",
+        "set": "cpp",
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
@@ -53,8 +56,10 @@
         "variant": "cpp",
         "vector": "cpp",
         "algorithm": "cpp",
-        "queue": "cpp",
         "deque": "cpp",
-        "functional": "cpp"
+        "queue": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "memory_resource": "cpp"
     }
 }

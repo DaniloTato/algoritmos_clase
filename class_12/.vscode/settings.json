@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "algorithm": "cpp",
         "__bit_reference": "cpp",
         "__config": "cpp",
         "__debug": "cpp",
@@ -51,10 +52,6 @@
         "typeinfo": "cpp",
         "unordered_map": "cpp",
         "variant": "cpp",
-        "vector": "cpp",
-        "algorithm": "cpp",
-        "queue": "cpp",
-        "deque": "cpp",
-        "functional": "cpp"
+        "vector": "cpp"
     }
 }
